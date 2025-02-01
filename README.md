@@ -1,5 +1,5 @@
-# Proyecto Carrito React
-Este proyecto muestra el desarrollo utilizando React en el Frontend de la interacción que se produce al escoger un producto, mostrar el producto, seleccionar sabor y cantidad a comprar. Adicionalmente, se selecciona la región donde se desea el despacho, como consecuencia se mostrará el precio seleccionado y el total a pagar. 
+#  Carrito de compras
+Proyecto desarrollado con React, utiliza Axios para conectar con backend.
 
 ## Instalación
 1. Clona este repositorio:
